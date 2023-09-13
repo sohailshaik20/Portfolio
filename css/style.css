@@ -200,7 +200,7 @@ nav i {
 } */
 
 main {
-  background: url(Portfolio/img/bg.png) repeat;
+  background: url("https://github.com/sohailshaik20/Portfolio/blob/main/img/bg.png") repeat;
   padding-left: 190px;
 }
 
